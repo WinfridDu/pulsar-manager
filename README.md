@@ -1,6 +1,6 @@
 # Apache Pulsar manager
 
-Apache Pulsar manager is a web-based GUI management tool for managing and monitoring Pulsar.
+Apache Pulsar aanager is a web-based GUI management tool for managing and monitoring Pulsar.
 
 A Pulsar Manager is capable of managing multiple Pulsar clusters. A Pulsar instance or a group
 of Pulsar clusters is defined as an `Environment` in Pulsar Manager. You can create as many environments
